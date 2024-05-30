@@ -1,7 +1,7 @@
 ## About Me 🌟
 
 # 💫 About Me:
-🔭 I’m currently working on Games<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Games<br>🌱 I’m currently learning Unity and C#/C++<br>
 
 
 ## 🌐 Socials:
